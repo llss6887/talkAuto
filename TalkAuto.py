@@ -8,7 +8,7 @@ repos = 'myblog'
 #title = 'demo1'
 #label = '/blog/article/87'
 domain = 'http://heimamba.com'
-token = 'b0ccf54d3653f8ff596058a54a9dc67cf627c534'
+token = 'b0ccf54d3653f8ff596058a54a9dc67cf6dferjh'
 
 
 def autoTalk(title, label):
